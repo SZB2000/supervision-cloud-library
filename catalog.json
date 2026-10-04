@@ -37,7 +37,9 @@
       "gameId": "fead4f37-26be-4be1-8593-8675eb9f2287",
       "moonlightName": "可娜 灵魂之桥",
       "title": "可娜 灵魂之桥",
-      "category": "云端游戏"
+      "category": "云端游戏",
+      "cover": "assets/170343a276f10e67/cover-d8ce604a.jpg",
+      "background": "assets/170343a276f10e67/background-cf82a1f0.jpg"
     },
     {
       "gameId": "61804b50-23c2-445e-afc0-0f058d087222",
