@@ -25,7 +25,8 @@
       "title": "世嘉拉力",
       "category": "云端游戏",
       "cover": "assets/632a0cdcfa252ca5/cover-fc698365.jpg",
-      "background": "assets/632a0cdcfa252ca5/background-02cc208f.jpg"
+      "background": "assets/632a0cdcfa252ca5/background-02cc208f.jpg",
+      "stereoMode": "tab"
     },
     {
       "gameId": "62824d46-af0a-4e8f-b4de-6f5f98646eb9",
