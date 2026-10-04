@@ -8,6 +8,50 @@
       "category": "云端游戏",
       "cover": "assets/00f56da98fa842da/cover-dda19892.png",
       "background": "assets/00f56da98fa842da/background-7b20ed63.png"
+    },
+    {
+      "gameId": "6f018b0f-bab8-4aaf-9c39-74d067e8d3bf",
+      "moonlightName": "三位一体 3",
+      "title": "三位一体 3",
+      "category": "云端游戏",
+      "cover": "assets/fb3c328c5462fbed/cover-5cf157a1.jpg",
+      "background": "assets/fb3c328c5462fbed/background-34196fd8.jpg"
+    },
+    {
+      "gameId": "79413fb6-60b7-43a3-be50-afc03a9fca4a",
+      "moonlightName": "世嘉拉力",
+      "title": "世嘉拉力",
+      "category": "云端游戏"
+    },
+    {
+      "gameId": "62824d46-af0a-4e8f-b4de-6f5f98646eb9",
+      "moonlightName": "刀魂 6",
+      "title": "刀魂 6",
+      "category": "云端游戏"
+    },
+    {
+      "gameId": "fead4f37-26be-4be1-8593-8675eb9f2287",
+      "moonlightName": "可娜 灵魂之桥",
+      "title": "可娜 灵魂之桥",
+      "category": "云端游戏"
+    },
+    {
+      "gameId": "61804b50-23c2-445e-afc0-0f058d087222",
+      "moonlightName": "我的桌面",
+      "title": "我的桌面",
+      "category": "云端游戏"
+    },
+    {
+      "gameId": "d8fe4ea1-240b-4b4a-85df-aca2b5d5f358",
+      "moonlightName": "激流快艇",
+      "title": "激流快艇",
+      "category": "云端游戏"
+    },
+    {
+      "gameId": "5f44e291-2161-4911-9f16-c3e550fb2f43",
+      "moonlightName": "铁拳 7",
+      "title": "铁拳 7",
+      "category": "云端游戏"
     }
   ]
 }
