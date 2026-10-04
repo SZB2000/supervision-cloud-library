@@ -16,7 +16,8 @@
       "title": "三位一体 3",
       "category": "云端游戏",
       "cover": "assets/fb3c328c5462fbed/cover-5cf157a1.jpg",
-      "background": "assets/fb3c328c5462fbed/background-34196fd8.jpg"
+      "background": "assets/fb3c328c5462fbed/background-34196fd8.jpg",
+      "stereoMode": "tab"
     },
     {
       "gameId": "79413fb6-60b7-43a3-be50-afc03a9fca4a",
