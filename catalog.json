@@ -58,7 +58,9 @@
       "gameId": "5f44e291-2161-4911-9f16-c3e550fb2f43",
       "moonlightName": "铁拳 7",
       "title": "铁拳 7",
-      "category": "云端游戏"
+      "category": "云端游戏",
+      "cover": "assets/3b9c32670505de76/cover-0322988c.jpg",
+      "background": "assets/3b9c32670505de76/background-b86c8bd5.png"
     }
   ]
 }
