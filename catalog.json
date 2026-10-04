@@ -29,7 +29,9 @@
       "gameId": "62824d46-af0a-4e8f-b4de-6f5f98646eb9",
       "moonlightName": "刀魂 6",
       "title": "刀魂 6",
-      "category": "云端游戏"
+      "category": "云端游戏",
+      "cover": "assets/b3e41b17246216d1/cover-a9229588.png",
+      "background": "assets/b3e41b17246216d1/background-28251029.jpg"
     },
     {
       "gameId": "fead4f37-26be-4be1-8593-8675eb9f2287",
