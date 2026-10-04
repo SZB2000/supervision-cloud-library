@@ -68,7 +68,8 @@
       "title": "铁拳 7",
       "category": "云端游戏",
       "cover": "assets/3b9c32670505de76/cover-0322988c.jpg",
-      "background": "assets/3b9c32670505de76/background-b86c8bd5.png"
+      "background": "assets/3b9c32670505de76/background-b86c8bd5.png",
+      "stereoMode": "tab"
     }
   ]
 }
