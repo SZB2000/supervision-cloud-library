@@ -59,7 +59,8 @@
       "title": "激流快艇",
       "category": "云端游戏",
       "cover": "assets/18f64717d6a26bde/cover-1defc2b0.jpg",
-      "background": "assets/18f64717d6a26bde/background-f3039131.png"
+      "background": "assets/18f64717d6a26bde/background-f3039131.png",
+      "stereoMode": "tab"
     },
     {
       "gameId": "5f44e291-2161-4911-9f16-c3e550fb2f43",
