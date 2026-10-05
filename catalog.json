@@ -70,6 +70,15 @@
       "cover": "assets/3b9c32670505de76/cover-0322988c.jpg",
       "background": "assets/3b9c32670505de76/background-b86c8bd5.png",
       "stereoMode": "tab"
+    },
+    {
+      "gameId": "1f343fcb-c3ea-4881-ae97-e36ca01b6d74",
+      "moonlightName": "CarX 街头",
+      "title": "CarX 街头",
+      "category": "云端游戏",
+      "cover": "assets/c966c9a1018ebb78/cover-022f4ada.jpg",
+      "background": "assets/c966c9a1018ebb78/background-30b9e75f.jpg",
+      "stereoMode": "model"
     }
   ]
 }
