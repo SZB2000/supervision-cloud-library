@@ -79,6 +79,15 @@
       "cover": "assets/c966c9a1018ebb78/cover-022f4ada.jpg",
       "background": "assets/c966c9a1018ebb78/background-30b9e75f.jpg",
       "stereoMode": "model"
+    },
+    {
+      "gameId": "40840f82-e5bd-4037-a616-cb7a929e0295",
+      "moonlightName": "米奇魔幻城堡",
+      "title": "米奇魔幻城堡",
+      "category": "云端游戏",
+      "cover": "assets/faaa1c5d90c7391d/cover-9c64b563.jpg",
+      "background": "assets/faaa1c5d90c7391d/background-650c3402.jpg",
+      "stereoMode": "tab"
     }
   ]
 }
