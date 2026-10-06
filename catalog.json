@@ -8,7 +8,9 @@
       "category": "云端游戏",
       "cover": "assets/00f56da98fa842da/cover-dda19892-compat032.jpg",
       "background": "assets/00f56da98fa842da/background-965abcbc.jpg",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "steamAppId": "558260",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/558260/149343/6decf374d360101a7eef5375c15355e1900b9568/1751301780/hls_264_master.m3u8?t=1519730458"
     },
     {
       "gameId": "6f018b0f-bab8-4aaf-9c39-74d067e8d3bf",
@@ -17,7 +19,9 @@
       "category": "云端游戏",
       "cover": "assets/fb3c328c5462fbed/cover-5cf157a1.jpg",
       "background": "assets/fb3c328c5462fbed/background-34196fd8.jpg",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "steamAppId": "319910",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/319910/46398/b2eef05a25762b95e30b2505339873964c97fefa/1750507470/hls_264_master.m3u8?t=1447378816"
     },
     {
       "gameId": "79413fb6-60b7-43a3-be50-afc03a9fca4a",
@@ -35,7 +39,9 @@
       "category": "云端游戏",
       "cover": "assets/b3e41b17246216d1/cover-a9229588.png",
       "background": "assets/b3e41b17246216d1/background-28251029.jpg",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "steamAppId": "544750",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/544750/323172/7483d2e3b7b07128e38b7c6e553711924b3015c9/1750548159/hls_264_master.m3u8?t=1604033029"
     },
     {
       "gameId": "fead4f37-26be-4be1-8593-8675eb9f2287",
@@ -44,7 +50,9 @@
       "category": "云端游戏",
       "cover": "assets/170343a276f10e67/cover-d8ce604a.jpg",
       "background": "assets/170343a276f10e67/background-cf82a1f0.jpg",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "steamAppId": "1954200",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1954200/488266/f058b635fdde205f5c62eb39d27ec77cbe22b011/1750742566/hls_264_master.m3u8?t=1660913901"
     },
     {
       "gameId": "61804b50-23c2-445e-afc0-0f058d087222",
@@ -60,7 +68,9 @@
       "category": "云端游戏",
       "cover": "assets/18f64717d6a26bde/cover-1defc2b0.jpg",
       "background": "assets/18f64717d6a26bde/background-f3039131.png",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "steamAppId": "443860",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/443860/57979/bf7ef3bf2b820900491f4feca8f2d7ea5f4d8a20/1751285965/hls_264_master.m3u8?t=1468408997"
     },
     {
       "gameId": "5f44e291-2161-4911-9f16-c3e550fb2f43",
@@ -69,7 +79,9 @@
       "category": "云端游戏",
       "cover": "assets/3b9c32670505de76/cover-0322988c.jpg",
       "background": "assets/3b9c32670505de76/background-b86c8bd5.png",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "steamAppId": "389730",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/389730/323098/e0620ea7f683f6cef8bc2bbea6e5598a66c009b5/1750524002/hls_264_master.m3u8?t=1604043392"
     },
     {
       "gameId": "1f343fcb-c3ea-4881-ae97-e36ca01b6d74",
