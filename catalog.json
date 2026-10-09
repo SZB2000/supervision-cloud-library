@@ -100,6 +100,17 @@
       "cover": "assets/faaa1c5d90c7391d/cover-9c64b563.jpg",
       "background": "assets/faaa1c5d90c7391d/background-650c3402.jpg",
       "stereoMode": "tab"
+    },
+    {
+      "gameId": "3886ad56-509b-4633-9f05-ad0c814ccbf1",
+      "moonlightName": "皇牌空战 7",
+      "title": "皇牌空战 7",
+      "category": "云端游戏",
+      "cover": "assets/72c5c923db4f0d91/cover-12cf2eab.jpg",
+      "background": "assets/72c5c923db4f0d91/background-a42460f3.jpg",
+      "stereoMode": "tab",
+      "steamAppId": "502500",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/502500/423097/cae6d7b42ef25005c779930f43dea1c2440ee302/1750538725/hls_264_master.m3u8?t=1638963566"
     }
   ]
 }
