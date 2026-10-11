@@ -9,6 +9,8 @@
       "cover": "assets/00f56da98fa842da/cover-dda19892-compat032.jpg",
       "background": "assets/00f56da98fa842da/background-965abcbc.jpg",
       "stereoMode": "tab",
+      "separation": 87.0,
+      "convergence": 120.0,
       "steamAppId": "558260",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/558260/149343/6decf374d360101a7eef5375c15355e1900b9568/1751301780/hls_264_master.m3u8?t=1519730458"
     },
@@ -30,7 +32,9 @@
       "category": "云端游戏",
       "cover": "assets/632a0cdcfa252ca5/cover-fc698365.jpg",
       "background": "assets/632a0cdcfa252ca5/background-02cc208f.jpg",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "separation": 80.0,
+      "convergence": 3.05
     },
     {
       "gameId": "62824d46-af0a-4e8f-b4de-6f5f98646eb9",
@@ -40,6 +44,8 @@
       "cover": "assets/b3e41b17246216d1/cover-a9229588.png",
       "background": "assets/b3e41b17246216d1/background-28251029.jpg",
       "stereoMode": "tab",
+      "separation": 87.0,
+      "convergence": 120.0,
       "steamAppId": "544750",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/544750/323172/7483d2e3b7b07128e38b7c6e553711924b3015c9/1750548159/hls_264_master.m3u8?t=1604033029"
     },
@@ -51,6 +57,8 @@
       "cover": "assets/170343a276f10e67/cover-d8ce604a.jpg",
       "background": "assets/170343a276f10e67/background-cf82a1f0.jpg",
       "stereoMode": "tab",
+      "separation": 49.0,
+      "convergence": 215.0,
       "steamAppId": "1954200",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1954200/488266/f058b635fdde205f5c62eb39d27ec77cbe22b011/1750742566/hls_264_master.m3u8?t=1660913901"
     },
@@ -69,6 +77,8 @@
       "cover": "assets/18f64717d6a26bde/cover-1defc2b0.jpg",
       "background": "assets/18f64717d6a26bde/background-f3039131.png",
       "stereoMode": "tab",
+      "separation": 62.0,
+      "convergence": 3.2,
       "steamAppId": "443860",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/443860/57979/bf7ef3bf2b820900491f4feca8f2d7ea5f4d8a20/1751285965/hls_264_master.m3u8?t=1468408997"
     },
@@ -80,6 +90,8 @@
       "cover": "assets/3b9c32670505de76/cover-0322988c.jpg",
       "background": "assets/3b9c32670505de76/background-b86c8bd5.png",
       "stereoMode": "tab",
+      "separation": 100.0,
+      "convergence": 300.0,
       "steamAppId": "389730",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/389730/323098/e0620ea7f683f6cef8bc2bbea6e5598a66c009b5/1750524002/hls_264_master.m3u8?t=1604043392"
     },
@@ -111,6 +123,13 @@
       "stereoMode": "tab",
       "steamAppId": "502500",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/502500/423097/cae6d7b42ef25005c779930f43dea1c2440ee302/1750538725/hls_264_master.m3u8?t=1638963566"
+    },
+    {
+      "gameId": "vr-all-in-one-sports",
+      "moonlightName": "All In One Sports VR",
+      "title": "All In One Sports VR",
+      "category": "VR游戏",
+      "launchMode": "alvr"
     }
   ]
 }
