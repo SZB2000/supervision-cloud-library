@@ -111,7 +111,9 @@
       "category": "云端游戏",
       "cover": "assets/faaa1c5d90c7391d/cover-9c64b563.jpg",
       "background": "assets/faaa1c5d90c7391d/background-650c3402.jpg",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "separation": 94.0,
+      "convergence": 6.72
     },
     {
       "gameId": "3886ad56-509b-4633-9f05-ad0c814ccbf1",
