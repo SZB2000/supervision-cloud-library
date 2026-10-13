@@ -86,11 +86,12 @@
     {
       "gameId": "1f343fcb-c3ea-4881-ae97-e36ca01b6d74",
       "moonlightName": "CarX 街头",
-      "title": "CarX 街头",
+      "title": "CarX 街头竞速",
       "category": "云端游戏",
       "cover": "assets/c966c9a1018ebb78/cover-022f4ada.jpg",
       "background": "assets/c966c9a1018ebb78/background-30b9e75f.jpg",
-      "stereoMode": "model"
+      "stereoMode": "model",
+      "launchMode": "moonlight"
     },
     {
       "gameId": "40840f82-e5bd-4037-a616-cb7a929e0295",
@@ -111,6 +112,12 @@
       "stereoMode": "tab",
       "steamAppId": "502500",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/502500/423097/cae6d7b42ef25005c779930f43dea1c2440ee302/1750538725/hls_264_master.m3u8?t=1638963566"
+    },
+    {
+      "gameId": "fab5e050-77cf-4e06-9762-0ff10028e1f2",
+      "moonlightName": "多合一运动 VR",
+      "title": "多合一运动 VR",
+      "category": "云端游戏"
     }
   ]
 }
