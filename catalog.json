@@ -12,7 +12,9 @@
       "separation": 0.05,
       "convergence": 1.0,
       "steamAppId": "558260",
-      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/558260/149343/6decf374d360101a7eef5375c15355e1900b9568/1751301780/hls_264_master.m3u8?t=1519730458"
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/558260/149343/6decf374d360101a7eef5375c15355e1900b9568/1751301780/hls_264_master.m3u8?t=1519730458",
+      "launchMode": "moonlight",
+      "native3D": false
     },
     {
       "gameId": "6f018b0f-bab8-4aaf-9c39-74d067e8d3bf",
