@@ -124,7 +124,8 @@
       "stereoMode": "model",
       "steamAppId": "1114150",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1114150/589394711/1cd39651013154b4f237714f42dab7ccd00beb5f/1783349371/hls_264_master.m3u8?t=1783349688",
-      "launchMode": "moonlight"
+      "launchMode": "moonlight",
+      "native3D": true
     },
     {
       "gameId": "40840f82-e5bd-4037-a616-cb7a929e0295",
