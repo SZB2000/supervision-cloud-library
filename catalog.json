@@ -189,8 +189,14 @@
       "moonlightName": "巅峰急速",
       "title": "巅峰急速",
       "category": "云端游戏",
+      "cover": "assets/9081a08d1139463e/cover-3a2e0e34.png",
+      "background": "assets/9081a08d1139463e/background-60480253.jpg",
+      "stereoMode": "tab",
       "separation": 73.0000305,
-      "convergence": 190.0
+      "convergence": 190.0,
+      "trailerUrl": "https://www.youtube.com/watch?v=uGJmzVnaHZ4",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
