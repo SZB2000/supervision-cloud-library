@@ -164,6 +164,27 @@
       "stereoMode": "off",
       "launchMode": "moonlight",
       "native3D": true
+    },
+    {
+      "gameId": "40cdedc6-54fb-44d5-91b8-d68d788f2c22",
+      "moonlightName": "大头盔英雄",
+      "title": "大头盔英雄",
+      "category": "云端游戏",
+      "cover": "assets/f43e10f332c5ac45/cover-f95b9e7c.jpg",
+      "background": "assets/f43e10f332c5ac45/background-873017d9.jpg",
+      "stereoMode": "tab",
+      "separation": 0.05,
+      "convergence": 1.0,
+      "launchMode": "moonlight",
+      "native3D": false
+    },
+    {
+      "gameId": "b6c6fd30-94b8-47d5-8552-b958df019c95",
+      "moonlightName": "巅峰急速",
+      "title": "巅峰急速",
+      "category": "云端游戏",
+      "separation": 73.0000305,
+      "convergence": 190.0
     }
   ]
 }
