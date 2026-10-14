@@ -115,19 +115,6 @@
       "native3D": false
     },
     {
-      "gameId": "1f343fcb-c3ea-4881-ae97-e36ca01b6d74",
-      "moonlightName": "CarX 街头",
-      "title": "CarX 街头竞速",
-      "category": "云端游戏",
-      "cover": "assets/c966c9a1018ebb78/cover-022f4ada.jpg",
-      "background": "assets/c966c9a1018ebb78/background-30b9e75f.jpg",
-      "stereoMode": "model",
-      "steamAppId": "1114150",
-      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1114150/589394711/1cd39651013154b4f237714f42dab7ccd00beb5f/1783349371/hls_264_master.m3u8?t=1783349688",
-      "launchMode": "moonlight",
-      "native3D": true
-    },
-    {
       "gameId": "40840f82-e5bd-4037-a616-cb7a929e0295",
       "moonlightName": "米奇魔幻城堡",
       "title": "米奇魔幻城堡",
