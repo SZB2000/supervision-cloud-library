@@ -175,6 +175,8 @@
       "stereoMode": "tab",
       "separation": 0.05,
       "convergence": 1.0,
+      "steamAppId": "2397250",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/2397250/814487/aac469bf6412b147761cfcceb2e845fb2b413ce1/1750813721/hls_264_master.m3u8?t=1738857533",
       "launchMode": "moonlight",
       "native3D": false
     },
