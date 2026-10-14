@@ -67,8 +67,12 @@
       "cover": "assets/170343a276f10e67/cover-d8ce604a.jpg",
       "background": "assets/170343a276f10e67/background-cf82a1f0.jpg",
       "stereoMode": "tab",
+      "separation": 49.0,
+      "convergence": 215.0,
       "steamAppId": "1954200",
-      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1954200/488266/f058b635fdde205f5c62eb39d27ec77cbe22b011/1750742566/hls_264_master.m3u8?t=1660913901"
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1954200/488266/f058b635fdde205f5c62eb39d27ec77cbe22b011/1750742566/hls_264_master.m3u8?t=1660913901",
+      "launchMode": "moonlight",
+      "native3D": false
     },
     {
       "gameId": "61804b50-23c2-445e-afc0-0f058d087222",
