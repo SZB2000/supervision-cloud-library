@@ -117,7 +117,13 @@
       "gameId": "fab5e050-77cf-4e06-9762-0ff10028e1f2",
       "moonlightName": "多合一运动 VR",
       "title": "多合一运动 VR",
-      "category": "云端游戏"
+      "category": "VR游戏",
+      "cover": "assets/a73d9879a531c2d7/cover-892da386.jpg",
+      "background": "assets/a73d9879a531c2d7/background-8df677d9.jpg",
+      "stereoMode": "off",
+      "steamAppId": "1514840",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1514840/735655/47e6e51af02aa3da11656a3751cec19bc4289cd7/1750697106/hls_264_master.m3u8?t=1722833114",
+      "launchMode": "alvr"
     }
   ]
 }
