@@ -30,7 +30,10 @@
       "category": "云端游戏",
       "cover": "assets/632a0cdcfa252ca5/cover-fc698365.jpg",
       "background": "assets/632a0cdcfa252ca5/background-02cc208f.jpg",
-      "stereoMode": "tab"
+      "stereoMode": "tab",
+      "steamAppId": "1959280",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1959280/601419/14bb7011d3e7b8921dc9880b7de58bbf500f534c/1751061326/hls_264_master.m3u8?t=1693090488",
+      "launchMode": "moonlight"
     },
     {
       "gameId": "62824d46-af0a-4e8f-b4de-6f5f98646eb9",
