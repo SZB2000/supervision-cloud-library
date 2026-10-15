@@ -154,7 +154,8 @@
       "stereoMode": "off",
       "steamAppId": "1514840",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1514840/735655/47e6e51af02aa3da11656a3751cec19bc4289cd7/1750697106/hls_264_master.m3u8?t=1722833114",
-      "launchMode": "alvr"
+      "launchMode": "alvr",
+      "native3D": false
     },
     {
       "gameId": "d21c56bf-4c1b-4fe7-ac63-e9e4d2ecaf5a",
