@@ -209,6 +209,7 @@
       "stereoMode": "tab",
       "separation": 80.0,
       "convergence": 1.0,
+      "trailerUrl": "https://www.youtube.com/watch?v=kspAv1rtFHY",
       "launchMode": "moonlight",
       "native3D": false
     },
