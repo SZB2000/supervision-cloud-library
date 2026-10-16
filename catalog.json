@@ -206,7 +206,7 @@
       "category": "云端游戏",
       "cover": "assets/dd312b30e822d780/cover-a7cd9578.jpg",
       "background": "assets/dd312b30e822d780/background-e7d0c548.jpg",
-      "stereoMode": "off",
+      "stereoMode": "tab",
       "separation": 80.0,
       "convergence": 1.0,
       "launchMode": "moonlight",
