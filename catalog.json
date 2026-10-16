@@ -193,9 +193,22 @@
       "cover": "assets/9081a08d1139463e/cover-3a2e0e34.png",
       "background": "assets/9081a08d1139463e/background-60480253.jpg",
       "stereoMode": "tab",
-      "separation": 73.0000305,
-      "convergence": 190.0,
+      "separation": 75.0,
+      "convergence": 273.0,
       "trailerUrl": "https://www.youtube.com/watch?v=uGJmzVnaHZ4",
+      "launchMode": "moonlight",
+      "native3D": false
+    },
+    {
+      "gameId": "727a2044-d932-4809-896f-1f60491f20ec",
+      "moonlightName": "山脊赛车 R4",
+      "title": "山脊赛车 R4",
+      "category": "云端游戏",
+      "cover": "assets/dd312b30e822d780/cover-a7cd9578.jpg",
+      "background": "assets/dd312b30e822d780/background-e7d0c548.jpg",
+      "stereoMode": "off",
+      "separation": 80.0,
+      "convergence": 1.0,
       "launchMode": "moonlight",
       "native3D": false
     }
