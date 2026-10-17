@@ -247,8 +247,14 @@
       "moonlightName": "GT赛车 5",
       "title": "GT赛车 5",
       "category": "云端游戏",
+      "cover": "assets/a20cf2ae09856761/cover-494eaa63.jpg",
+      "background": "assets/a20cf2ae09856761/background-8d132713.jpg",
+      "stereoMode": "tab",
       "separation": 1.18,
-      "convergence": 1.47
+      "convergence": 1.47,
+      "trailerUrl": "https://www.youtube.com/watch?v=MXh25i7_3Is",
+      "launchMode": "moonlight",
+      "native3D": false
     },
     {
       "gameId": "2079bc25-de8b-412f-8ed0-602cfc5e5383",
