@@ -227,6 +227,20 @@
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/3914860/909482951/45ac0508a2b37346e86651040880c293cec419c8/1784157237/hls_264_master.m3u8?t=1784158130",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "f887a60a-20f2-4323-8cf6-9f77588d3e0c",
+      "moonlightName": "山脊赛车 7",
+      "title": "山脊赛车 7",
+      "category": "云端游戏",
+      "cover": "assets/3f58d6e52ba68c0e/cover-6f142335.jpg",
+      "background": "assets/3f58d6e52ba68c0e/background-1146683f.jpg",
+      "stereoMode": "tab",
+      "separation": 1.18,
+      "convergence": 1.47,
+      "trailerUrl": "https://www.youtube.com/watch?v=frW-Xu4Qoi4",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
