@@ -241,6 +241,28 @@
       "trailerUrl": "https://www.youtube.com/watch?v=frW-Xu4Qoi4",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "e5020210-3d4d-4da5-b144-0307fababf33",
+      "moonlightName": "GT赛车 5",
+      "title": "GT赛车 5",
+      "category": "云端游戏",
+      "separation": 1.18,
+      "convergence": 1.47
+    },
+    {
+      "gameId": "2079bc25-de8b-412f-8ed0-602cfc5e5383",
+      "moonlightName": "摩托风暴：太平洋裂谷",
+      "title": "摩托风暴：太平洋裂谷",
+      "category": "云端游戏",
+      "cover": "assets/0caa07f05d3670ee/cover-0acdd4b9.jpg",
+      "background": "assets/0caa07f05d3670ee/background-78f10200.jpg",
+      "stereoMode": "off",
+      "separation": 1.18,
+      "convergence": 1.47,
+      "trailerUrl": "https://www.youtube.com/watch?v=NLZZzNrQ53Q",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
