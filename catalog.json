@@ -269,6 +269,20 @@
       "trailerUrl": "https://www.youtube.com/watch?v=NLZZzNrQ53Q",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "17eb2aa2-c97b-4fe7-9e25-1a7bdb8d1736",
+      "moonlightName": "冠军拉力赛 2000",
+      "title": "冠军拉力赛 2000",
+      "category": "云端游戏",
+      "cover": "assets/84e77ae7ea8752a8/cover-a92ba5e2.jpg",
+      "background": "assets/84e77ae7ea8752a8/background-8893a3ae.jpg",
+      "stereoMode": "tab",
+      "separation": 77.0,
+      "convergence": 1.52,
+      "trailerUrl": "https://www.youtube.com/watch?v=Vi4wjWJI6TE",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
