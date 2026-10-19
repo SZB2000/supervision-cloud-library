@@ -283,6 +283,21 @@
       "trailerUrl": "https://www.youtube.com/watch?v=Vi4wjWJI6TE",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "b9224ad0-ae6c-4fa1-96ea-18ec1f8b2338",
+      "moonlightName": "山脊赛车：不羁",
+      "title": "山脊赛车：不羁",
+      "category": "云端游戏",
+      "cover": "assets/42108798607244bb/cover-6cf971db.jpg",
+      "background": "assets/42108798607244bb/background-638eaa34.jpg",
+      "stereoMode": "tab",
+      "separation": 63.0,
+      "convergence": 2.27,
+      "steamAppId": "202310",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/202310/7141/2dcd649482acaafbcc4cc23b0d4760025dd7b543/1751249306/hls_264_master.m3u8?t=1447355574",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
