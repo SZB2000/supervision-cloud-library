@@ -307,6 +307,8 @@
       "cover": "assets/7a84d28608fe3421/cover-a729ff18.jpg",
       "background": "assets/7a84d28608fe3421/background-24a5a021.jpg",
       "stereoMode": "tab",
+      "separation": 77.0,
+      "convergence": 3.22,
       "steamAppId": "297860",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/297860/26055/536c6fa8a0883e94c2d6241b4dbb85fd92f67dfd/1750503235/hls_264_master.m3u8?t=1447364041",
       "launchMode": "moonlight",
