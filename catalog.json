@@ -298,6 +298,19 @@
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/202310/7141/2dcd649482acaafbcc4cc23b0d4760025dd7b543/1751249306/hls_264_master.m3u8?t=1447355574",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "4da58d7b-ad77-47ff-9664-dcbef61cc7d2",
+      "moonlightName": "争分夺秒",
+      "title": "争分夺秒",
+      "category": "云端游戏",
+      "cover": "assets/7a84d28608fe3421/cover-a729ff18.jpg",
+      "background": "assets/7a84d28608fe3421/background-24a5a021.jpg",
+      "stereoMode": "tab",
+      "steamAppId": "297860",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/297860/26055/536c6fa8a0883e94c2d6241b4dbb85fd92f67dfd/1750503235/hls_264_master.m3u8?t=1447364041",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
