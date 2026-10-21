@@ -328,6 +328,19 @@
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1328660/325539/de11dad954a8e59f3590873bc7c30077ae3af898/1750672729/hls_264_master.m3u8?t=1605014533",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "77e20ae3-65f2-4fb5-be63-ae74ffa8cae2",
+      "moonlightName": "横冲直撞 4 VR",
+      "title": "横冲直撞 4 VR",
+      "category": "VR游戏",
+      "cover": "assets/231cfe3cc6986331/cover-80dc2353.jpg",
+      "background": "assets/231cfe3cc6986331/background-5211409b.jpg",
+      "stereoMode": "off",
+      "steamAppId": "402130",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/402130/97243/6727dde72cfe8590ac749da32ab88d1ee3f1a292/1751278857/hls_264_master.m3u8?t=1491419141",
+      "launchMode": "alvr",
+      "native3D": false
     }
   ]
 }
