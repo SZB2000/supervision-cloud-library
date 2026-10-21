@@ -313,6 +313,19 @@
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/297860/26055/536c6fa8a0883e94c2d6241b4dbb85fd92f67dfd/1750503235/hls_264_master.m3u8?t=1447364041",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "feedd6a4-9d01-4852-af59-a523e54f2ad0",
+      "moonlightName": "极品飞车 - 热力追踪",
+      "title": "极品飞车 - 热力追踪",
+      "category": "云端游戏",
+      "cover": "assets/090b9461fa6fec93/cover-615913f9.jpg",
+      "background": "assets/090b9461fa6fec93/background-f80a9fb3.jpg",
+      "stereoMode": "tab",
+      "steamAppId": "1328660",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/1328660/325539/de11dad954a8e59f3590873bc7c30077ae3af898/1750672729/hls_264_master.m3u8?t=1605014533",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
