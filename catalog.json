@@ -80,7 +80,7 @@
       "title": "我的桌面",
       "category": "云端游戏",
       "background": "assets/234ddbda19f742a6/background-861a7943.png",
-      "stereoMode": "off",
+      "stereoMode": "model",
       "launchMode": "moonlight",
       "native3D": true
     },
