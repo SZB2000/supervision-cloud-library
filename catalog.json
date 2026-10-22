@@ -88,16 +88,14 @@
       "gameId": "d8fe4ea1-240b-4b4a-85df-aca2b5d5f358",
       "moonlightName": "激流快艇",
       "title": "激流快艇",
-      "category": "云端游戏",
+      "category": "云游戏",
       "cover": "assets/18f64717d6a26bde/cover-1defc2b0.jpg",
       "background": "assets/18f64717d6a26bde/background-f3039131.png",
-      "stereoMode": "tab",
-      "separation": 62.0,
-      "convergence": 3.2,
+      "stereoMode": "model",
       "steamAppId": "443860",
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/443860/57979/bf7ef3bf2b820900491f4feca8f2d7ea5f4d8a20/1751285965/hls_264_master.m3u8?t=1468408997",
       "launchMode": "moonlight",
-      "native3D": false
+      "native3D": true
     },
     {
       "gameId": "5f44e291-2161-4911-9f16-c3e550fb2f43",
