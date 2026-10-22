@@ -357,7 +357,12 @@
       "gameId": "28b263e5-d254-4261-a1fd-78ab16bcb446",
       "moonlightName": "3D油管",
       "title": "3D油管",
-      "category": "云端游戏"
+      "category": "3D影视",
+      "cover": "assets/d6ceca5d81049a39/cover-9cf94e9b.jpg",
+      "background": "assets/d6ceca5d81049a39/background-ac8baf1f.jpg",
+      "stereoMode": "model",
+      "launchMode": "moonlight",
+      "native3D": true
     },
     {
       "gameId": "8814083f-107f-440d-895f-8a6401cd4356",
