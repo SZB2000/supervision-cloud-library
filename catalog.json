@@ -368,7 +368,12 @@
       "gameId": "8814083f-107f-440d-895f-8a6401cd4356",
       "moonlightName": "3D电影",
       "title": "3D电影",
-      "category": "云端游戏"
+      "category": "3D影视",
+      "cover": "assets/e7a5ae79b91ea364/cover-e85f5c60.jpg",
+      "background": "assets/e7a5ae79b91ea364/background-b3153efc.jpg",
+      "stereoMode": "model",
+      "launchMode": "moonlight",
+      "native3D": true
     }
   ]
 }
