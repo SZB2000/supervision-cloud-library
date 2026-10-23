@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 31531,
+  "versionName": "0.54N-r2",
+  "channel": "test",
+  "notes": [
+    "新增启动版本检测与更新提醒",
+    "首次打开新版时显示简短更新说明",
+    "手机、电视和 Quest 统一适配"
+  ]
+}
