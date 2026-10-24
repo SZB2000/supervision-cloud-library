@@ -399,6 +399,18 @@
       "trailerUrl": "https://www.youtube.com/watch?v=uwVIp4nFRS8",
       "launchMode": "alvr",
       "native3D": false
+    },
+    {
+      "gameId": "0bf5a0a5-f239-4337-b915-5dbd2738c070",
+      "moonlightName": "摩托风暴：太平洋激流 VR",
+      "title": "摩托风暴：太平洋激流 VR",
+      "category": "VR游戏",
+      "cover": "assets/9d0889713480fc6a/cover-a2fb3a3e.jpg",
+      "background": "assets/9d0889713480fc6a/background-eeaf556c.jpg",
+      "stereoMode": "off",
+      "trailerUrl": "https://www.youtube.com/watch?v=NLZZzNrQ53Q",
+      "launchMode": "alvr",
+      "native3D": false
     }
   ]
 }
