@@ -387,6 +387,18 @@
       "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/402130/97243/6727dde72cfe8590ac749da32ab88d1ee3f1a292/1751278857/hls_264_master.m3u8?t=1491419141",
       "launchMode": "moonlight",
       "native3D": false
+    },
+    {
+      "gameId": "7c2609c2-b49d-4495-a4be-1221f0bd84aa",
+      "moonlightName": "尘埃拉力赛 2.0",
+      "title": "尘埃拉力赛 2.0",
+      "category": "VR游戏",
+      "cover": "assets/203eb47b65bdaceb/cover-322f8de6.jpg",
+      "background": "assets/203eb47b65bdaceb/background-7c1123f6.jpg",
+      "stereoMode": "off",
+      "trailerUrl": "https://www.youtube.com/watch?v=uwVIp4nFRS8",
+      "launchMode": "alvr",
+      "native3D": false
     }
   ]
 }
