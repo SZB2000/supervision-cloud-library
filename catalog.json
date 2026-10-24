@@ -372,6 +372,21 @@
       "stereoMode": "model",
       "launchMode": "moonlight",
       "native3D": true
+    },
+    {
+      "gameId": "0d678dc6-217d-4f6d-9384-2c8e4779aa1e",
+      "moonlightName": "横冲直撞 4",
+      "title": "横冲直撞 4",
+      "category": "云游戏",
+      "cover": "assets/c8805b5c4835b587/cover-bc5b7ee0.jpg",
+      "background": "assets/c8805b5c4835b587/background-aababa87.jpg",
+      "stereoMode": "tab",
+      "separation": 83.0,
+      "convergence": 2.45,
+      "steamAppId": "402130",
+      "trailerUrl": "https://video.akamai.steamstatic.com/store_trailers/402130/97243/6727dde72cfe8590ac749da32ab88d1ee3f1a292/1751278857/hls_264_master.m3u8?t=1491419141",
+      "launchMode": "moonlight",
+      "native3D": false
     }
   ]
 }
