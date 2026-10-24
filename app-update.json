@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "versionCode": 31538,
-  "versionName": "0.55N-r4",
+  "versionCode": 31539,
+  "versionName": "0.55N-r5",
   "channel": "test",
   "notes": [
-    "改善 VR 游戏切换时的退出等待，减少繁忙提示",
-    "游戏结束后自动返回选单，保留手柄菜单操作",
-    "手机、电视和 Quest 共享分类选中光效"
+    "手机 VR 新增立体强度滑块，拖动即可调整",
+    "每款游戏分别记住设置，下次进入自动恢复",
+    "保持 Quest 与其他串流模式的原有设置"
   ]
 }
