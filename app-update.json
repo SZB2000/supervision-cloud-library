@@ -1,11 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionCode": 31539,
-  "versionName": "0.55N-r5",
+  "versionCode": 31540,
+  "versionName": "0.55N-r6",
   "channel": "test",
   "notes": [
-    "手机 VR 新增立体强度滑块，拖动即可调整",
-    "每款游戏分别记住设置，下次进入自动恢复",
-    "保持 Quest 与其他串流模式的原有设置"
+    "修复再次进入手机 VR 时，已连接却仍停在等待页的问题",
+    "手机 VR 支持调整立体强度，每款游戏分别记住设置"
   ]
 }
