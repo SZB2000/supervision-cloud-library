@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "versionCode": 31549,
-  "versionName": "0.57N",
-  "channel": "test",
+  "versionCode": 31604,
+  "versionName": "0.64N",
+  "channel": "multiplayer",
   "notes": [
-    "Quest VR 支持连接头显的普通手柄，可操作支持手柄的 VR 游戏",
-    "退出 VR 后可用手柄继续操作游戏选单，LB／RB 切换分类",
-    "Quest 普通手柄在游戏画面稳定后约 20 秒启用，原装控制器正常使用"
+    "正式版本 0.64M：手机和电视可用平面电子琴与 Quest 合奏，Quest 使用立体琴房",
+    "多人客厅中，手柄玩家会自然握住手柄，电视玩家面向电视就座",
+    "首次打开新版时，可以查看多人版的更新说明"
   ],
   "releases": [
     {
@@ -44,6 +44,41 @@
         "退出 VR 后可用手柄继续操作游戏选单，LB／RB 切换分类",
         "Quest 普通手柄在游戏画面稳定后约 20 秒启用，原装控制器正常使用"
       ]
+    },
+    {
+      "versionCode": 31580,
+      "versionName": "0.60N",
+      "notes": [
+        "正式版本 0.60M：新增多人选游戏、共享观看与语音交流，Quest 可在虚拟客厅里与同伴相见"
+      ],
+      "releaseName": "0.60M"
+    },
+    {
+      "versionCode": 31584,
+      "versionName": "0.62N",
+      "notes": [
+        "正式版本 0.62M：超级电子琴加入本地娱乐，可在 Quest 中调整琴的位置与大小"
+      ],
+      "releaseName": "0.62M"
+    },
+    {
+      "versionCode": 31603,
+      "versionName": "0.63N",
+      "notes": [
+        "正式版本 0.63M：琴上小屏和面板可直接操作；多人角色会随手柄连接切换握姿"
+      ],
+      "releaseName": "0.63M"
+    },
+    {
+      "versionCode": 31604,
+      "versionName": "0.64N",
+      "notes": [
+        "正式版本 0.64M：手机和电视可用平面电子琴与 Quest 合奏，Quest 使用立体琴房",
+        "多人客厅中，手柄玩家会自然握住手柄，电视玩家面向电视就座",
+        "首次打开新版时，可以查看多人版的更新说明"
+      ],
+      "releaseName": "0.64M"
     }
-  ]
+  ],
+  "releaseName": "0.64M"
 }
