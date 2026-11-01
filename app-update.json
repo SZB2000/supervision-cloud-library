@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "versionCode": 31604,
+  "versionCode": 31605,
   "versionName": "0.64N",
   "channel": "multiplayer",
   "notes": [
     "正式版本 0.64M：手机和电视可用平面电子琴与 Quest 合奏，Quest 使用立体琴房",
     "多人客厅中，手柄玩家会自然握住手柄，电视玩家面向电视就座",
-    "首次打开新版时，可以查看多人版的更新说明"
+    "意见反馈可选择问题发生的版本，并查看历次正式更新内容"
   ],
   "releases": [
     {
@@ -70,12 +70,12 @@
       "releaseName": "0.63M"
     },
     {
-      "versionCode": 31604,
+      "versionCode": 31605,
       "versionName": "0.64N",
       "notes": [
         "正式版本 0.64M：手机和电视可用平面电子琴与 Quest 合奏，Quest 使用立体琴房",
         "多人客厅中，手柄玩家会自然握住手柄，电视玩家面向电视就座",
-        "首次打开新版时，可以查看多人版的更新说明"
+        "意见反馈可选择问题发生的版本，并查看历次正式更新内容"
       ],
       "releaseName": "0.64M"
     }
