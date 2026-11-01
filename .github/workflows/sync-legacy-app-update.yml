@@ -1,0 +1,38 @@
+name: Sync legacy app update feed
+on:
+  push:
+    branches: [main]
+    paths: [app-update-m.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: legacy-update-feed
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Generate metadata readable by installed N clients
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+          const main = JSON.parse(fs.readFileSync('app-update-m.json', 'utf8'));
+          function legacy(entry) {
+            if (!/^\d+(?:\.\d+)*M$/.test(entry.versionName)) return entry;
+            const notes = ['正式版本 ' + entry.versionName + '：' + entry.notes[0], ...entry.notes.slice(1)];
+            if (notes.length > 3 || notes.some(n => !n || n.length > 100)) throw Error('Legacy release note too long');
+            return {...entry, versionName: entry.versionName.slice(0, -1) + 'N', releaseName: entry.versionName, notes};
+          }
+          const feed = {...legacy(main), releases: main.releases.map(legacy)};
+          fs.writeFileSync('app-update.json', JSON.stringify(feed, null, 2) + '\n');
+          NODE
+          if git diff --quiet -- app-update.json; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -- app-update.json
+          git commit -m 'Sync legacy N client view of release history'
+          git push origin HEAD:main
