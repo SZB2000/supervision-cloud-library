@@ -424,6 +424,8 @@
       "cover": "assets/7820ef6f6882d254/cover-148ca40d.jpg",
       "background": "assets/7820ef6f6882d254/background-ba30b61f.jpg",
       "stereoMode": "tab",
+      "separation": 0.52,
+      "convergence": 8.18,
       "trailerUrl": "https://www.youtube.com/watch?v=fqKAOQt-mwc",
       "launchMode": "moonlight",
       "native3D": false
